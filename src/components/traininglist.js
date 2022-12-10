@@ -74,7 +74,7 @@ export default function TrainingList() {
             margin: 'auto'
         }}>
             <h1>Training</h1>
-s
+
             <Stack
             spacing={2} 
             direction="row"
